@@ -8,7 +8,7 @@ function ExpenseItem({ name, type, amount,date,onDelete, index }) {
             <td>{amount}</td>
             <td>{date}</td>
             <td>
-        <button onClick={() => onDelete(index)} style={{ backgroundColor: "red", color: "white" }}>
+        <button onClick={() => onDelete(index)} style={{ backgroundColor: "black", color: "white" }}>
           Delete
         </button>
       </td>

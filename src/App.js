@@ -50,7 +50,7 @@ function App() {
             <th>Type</th>
             <th>Amount ($)</th>
             <th>Date</th>
-            <th>Actions</th>
+            <th>Delete</th>
           </tr>
         </thead>
         <tbody>
